@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Janis Stals</h1>
 <h3 align="center">System integration developer from Latvia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jssdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="jssdeveloper" /> </p>
-
 - 🔭 I’m currently working on [Ebay API integration](https://github.com/jssdeveloper/get_ebay_listings)
 
 - 🌱 I’m currently learning **Front end development (React)**
