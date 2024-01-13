@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janis Stals</h1>
 <h3 align="center">System integration developer from Latvia</h3>
 
-- 🔭 I’m currently working on [Ebay API integration](https://github.com/jssdeveloper/get_ebay_listings)
-
-- 🌱 I’m currently learning **Front end development (React)**
+- 🌱 I’m currently learning **Front end development (VUE)**
 
 - 💬 Ask me about **Go, Python, Django**
 
