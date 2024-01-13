@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janis Stals</h1>
-<h3 align="center">System integration developer from Latvia</h3>
+<h3 align="center">developer from Latvia</h3>
 
 - 🌱 I’m currently learning **Front end development (VUE)**
 
